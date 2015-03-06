@@ -12,4 +12,4 @@ For details on how to submit your work, take a look at [Section 1](https://githu
 ---
 **Name**: TS	
 
-**Email**: TS@TS.com
+**Email**: none given
